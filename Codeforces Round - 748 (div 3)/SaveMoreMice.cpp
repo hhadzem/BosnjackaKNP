@@ -17,7 +17,7 @@ void solve(){
     for(int i = 0 ; i < k; i++)
         scanf("%d", &mice[i]);
     
-    sort(mice.rbegin(), mice.rend());
+    sort(mice.rbegin(), mice.rend());e
     
     int counter_mice = 0, moves = 0;
     
